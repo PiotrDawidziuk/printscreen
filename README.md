@@ -1,3 +1,3 @@
 # printscreen
 
-Compile & run. Enter file name. Program creates print screen.
+Compile & run. Enter file name. Program takes a screen shot.
